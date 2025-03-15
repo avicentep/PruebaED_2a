@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+22
+-sourcepath
+'E:/GRADO DUAL/ENTORNOS DE DESARROLLO/PracticaED_2a/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/GRADO DUAL/ENTORNOS DE DESARROLLO/PracticaED_2a/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PracticaED_2a 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PracticaED_2a 1.0-SNAPSHOT API'
+com.casa.practicaed_2a
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\src\main\java = 1742040534000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\element-list = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\overview-tree.html = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\allclasses-index.html = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\allpackages-index.html = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\module-search-index.js = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\package-search-index.js = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\type-search-index.js = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\member-search-index.js = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\tag-search-index.js = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\index-all.html = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\search.html = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\index.html = 1742046966000
+E:\GRADO DUAL\ENTORNOS DE DESARROLLO\PracticaED_2a\target\reports\apidocs\help-doc.html = 1742046966000

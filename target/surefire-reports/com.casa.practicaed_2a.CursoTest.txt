@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.casa.practicaed_2a.CursoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.038 s <<< FAILURE! -- in com.casa.practicaed_2a.CursoTest
+com.casa.practicaed_2a.CursoTest.testToString -- Time elapsed: 0.016 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.casa.practicaed_2a.Curso.toString()" because "instance" is null
+	at com.casa.practicaed_2a.CursoTest.testToString(CursoTest.java:59)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+

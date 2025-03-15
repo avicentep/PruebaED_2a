@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.casa.practicaed_2a.PersonaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.043 s <<< FAILURE! -- in com.casa.practicaed_2a.PersonaTest
+com.casa.practicaed_2a.PersonaTest.testCompareTo -- Time elapsed: 0.021 s <<< ERROR!
+java.lang.NullPointerException: Cannot read field "nif" because "o" is null
+	at com.casa.practicaed_2a.Persona.compareTo(Persona.java:110)
+	at com.casa.practicaed_2a.PersonaTest.testCompareTo(PersonaTest.java:111)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
