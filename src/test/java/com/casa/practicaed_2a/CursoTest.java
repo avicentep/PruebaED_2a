@@ -42,39 +42,9 @@ public class CursoTest {
     @Test
     public void testGetNombre() {
         System.out.println("getNombre");
-        Curso instance = null;
+        Curso instance = new Curso("");
         String expResult = "";
         String result = instance.getNombre();
         assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
     }
-
-    /**
-     * Test of toString method, of class Curso.
-     */
-    @Test
-    public void testToString() {
-        System.out.println("toString");
-        Curso instance = null;
-        String expResult = "";
-        String result = instance.toString();
-        assertEquals(expResult, result);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
-
-    /**
-     * Test of aniadirAlumno method, of class Curso.
-     */
-    @Test
-    public void testAniadirAlumno() {
-        System.out.println("aniadirAlumno");
-        Persona p = null;
-        Curso instance = null;
-        instance.aniadirAlumno(p);
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
-    
 }
