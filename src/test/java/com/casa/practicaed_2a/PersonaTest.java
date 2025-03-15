@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
- */
 package com.casa.practicaed_2a;
 
 import java.time.LocalDate;
@@ -13,8 +9,8 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- *
- * @author alber
+ * CLASE TEST PERSONA.
+ * @author Alberto Vicente
  */
 public class PersonaTest {
     
